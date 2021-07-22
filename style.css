@@ -1,0 +1,41 @@
+h1{
+color:purple;
+font-size: 30px;
+text-align: center;
+font-family: cursive;
+}
+h3{
+  color:plum;
+  font-family:fantasy;
+}
+body{
+  background-color:rgb(191, 146, 212);
+}
+.purple{
+ color: palevioletred;
+  font-family:'Times New Roman', Times, serif;
+}
+.orange{
+  color:rgb(92, 115, 194);
+}
+.background{
+  background-color: powderblue;
+}
+.blue{
+  background-color: papayawhip;
+}
+.font{
+  font-family: cursive;
+  color: rgb(123, 216, 180);
+}
+.background1{
+  background-color: azure;
+}
+.beach{
+  font-family: cursive;
+  color: purple
+}
+.dog{
+  color: plum;
+  font-family: cursive;
+}
