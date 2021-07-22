@@ -1,15 +1,15 @@
 h1{
-color:purple;
+color:rgb(0, 153, 255);
 font-size: 30px;
 text-align: center;
 font-family: cursive;
 }
 h3{
-  color:plum;
+  color:rgb(23, 73, 167);
   font-family:fantasy;
 }
 body{
-  background-color:rgb(191, 146, 212);
+  background-color:rgb(159, 211, 245);
 }
 .purple{
  color: palevioletred;
@@ -38,4 +38,27 @@ body{
 .dog{
   color: plum;
   font-family: cursive;
+}
+.column{
+  float: left;
+  width:50%;
+}
+.row{
+  content:"";
+  display:table;
+  clear:both;
+}
+.column1{
+  float: left;
+  width:25%;
+  background-color: rgb(253, 255, 122);
+}
+.row1{
+  content:"";
+  display:table;
+  clear:both;
+  
+}
+.yellow{
+  background-color: rgb(253, 255, 122);
 }
