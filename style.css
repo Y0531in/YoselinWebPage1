@@ -51,7 +51,7 @@ body{
 .column1{
   float: left;
   width:25%;
-  background-color: rgb(253, 255, 122);
+  background-color: rgb(180, 180, 255);
 }
 .row1{
   content:"";
@@ -60,5 +60,30 @@ body{
   
 }
 .yellow{
-  background-color: rgb(253, 255, 122);
+  background-color: rgb(180, 180, 255);
+}
+.navbar {
+  background-color: rgb(169, 150, 238);
+  overflow: hidden;
+}
+.navbar a {
+float:left;
+color:rgb(222, 198, 243);
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size:17px;
+}
+.navbar a:hover {
+background-color:pink;
+color:rgb(128, 175, 238);
+}
+.navbar a.active {
+  background-color: rgb(99, 99, 241);
+  color:white;
+}
+.gray{
+  color:pink;
+  text-align: left;
+  font-family: cursive;
 }
