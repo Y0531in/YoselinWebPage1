@@ -87,3 +87,7 @@ color:rgb(128, 175, 238);
   text-align: left;
   font-family: cursive;
 }
+.column2{
+  float: left;
+  width:25%;
+}
